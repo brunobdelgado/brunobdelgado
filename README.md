@@ -1,4 +1,4 @@
-## Hi, my name is Bruno Boeno Delgado.
+## Hi, my name is Bruno Delgado.
 <div align="center">
   <a href="https://github.com/brunobdelgado">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=brunobdelgado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
